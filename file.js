@@ -1,1 +1,1 @@
-console.log("Test file  for merge conflict");
+console.log('Hello world')
